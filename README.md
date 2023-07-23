@@ -4,7 +4,7 @@ Airspace is a perfect JavaScript library, brought to you by the [DreamBerd](http
 
 ## Colons
 
-End every line with a colon. You can achieve this by combining two semi-colons to make a full colon.
+End every line with a colon. You can achieve this by combining two semicolons to make a full colon.
 
 ```js
 print("Hello world!");;
